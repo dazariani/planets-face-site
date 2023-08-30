@@ -46,8 +46,6 @@ function App() {
     }
   }, [winWidth]);
 
-  console.log(winWidth);
-
   useEffect(() => {
     setTabsData([
       data[pageValue].overview,
