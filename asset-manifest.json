@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/planets-face-site/static/css/main.31d6cfe0.css",
+    "main.js": "/planets-face-site/static/js/main.a7320404.js",
+    "index.html": "/planets-face-site/index.html",
+    "main.a7320404.js.map": "/planets-face-site/static/js/main.a7320404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a7320404.js"
+  ]
+}
